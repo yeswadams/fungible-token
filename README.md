@@ -1,4 +1,4 @@
-# FUngibleToken (FTS)
+# FungibleToken (FTS)
 ================
 
 A simple ERC-20 token contract written in Solidity. ERC20 is Ethreum Request for Comment 20 which is a standard that was introduced in Ethereum in 2015 that defines a set of rules for creating tokens on the Ethereum blockchain. It Ensures Security, interporability and  compactibility of dApps.
